@@ -14,3 +14,8 @@ Ensure you have Python installed on your system. You will also need to install P
 
 ```bash
 pip install PySide6
+
+## Screenshots
+
+![project preview image1](./screenshots/image.png)
+```
