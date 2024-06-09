@@ -19,4 +19,3 @@ pip install PySide6
 ## Screenshots
 
 ![project preview image1](./screenshots/image.png)
-```
